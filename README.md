@@ -1,1 +1,1 @@
-mov loveme 0
+mov loveme, 0
